@@ -1,0 +1,68 @@
+
+
+ dotnet / core
+ The password you provided is weak and can be easily guessed. To increase your security, please change your password as soon as possible.
+
+Read our documentation on safer password practices.
+Code  Issues 66  Pull requests 1  Projects 0  Pulse  Community
+Branch: master 
+Find file Copy path
+core/.gitignore
+
+@pavinthan pavinthan Add jetbrains folder to .gitignore (#2320)
+718ec99 on 27 Feb
+5 contributors
+@richlander @geek @Petermarcu @pavinthan @terrajobst
+38 lines (32 sloc)  341 Bytes
+RawBlameHistory
+    
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+nupkg/
+
+# Visual Studio Code
+.vscode
+
+# Rider
+.idea
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Visual Studio 2015
+.vs/
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+
