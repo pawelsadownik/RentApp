@@ -1,0 +1,17 @@
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp/bin/Debug/netcoreapp2.2/RentApp.deps.json
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp/bin/Debug/netcoreapp2.2/RentApp.runtimeconfig.json
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp/bin/Debug/netcoreapp2.2/RentApp.runtimeconfig.dev.json
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp/bin/Debug/netcoreapp2.2/RentApp.dll
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp/bin/Debug/netcoreapp2.2/RentApp.pdb
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp/bin/Debug/netcoreapp2.2/RentApp.Infrastructure.dll
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp/bin/Debug/netcoreapp2.2/RentApp.Infrastructure.pdb
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp/obj/Debug/netcoreapp2.2/RentApp.csprojAssemblyReference.cache
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp/obj/Debug/netcoreapp2.2/RentApp.csproj.CoreCompileInputs.cache
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp/obj/Debug/netcoreapp2.2/RentApp.RazorAssemblyInfo.cache
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp/obj/Debug/netcoreapp2.2/RentApp.RazorAssemblyInfo.cs
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp/obj/Debug/netcoreapp2.2/RentApp.AssemblyInfoInputs.cache
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp/obj/Debug/netcoreapp2.2/RentApp.AssemblyInfo.cs
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp/obj/Debug/netcoreapp2.2/RentApp.RazorTargetAssemblyInfo.cache
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp/obj/Debug/netcoreapp2.2/RentApp.csproj.CopyComplete
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp/obj/Debug/netcoreapp2.2/RentApp.dll
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp/obj/Debug/netcoreapp2.2/RentApp.pdb

@@ -1,0 +1,14 @@
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp.Specs/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp.Specs/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp.Specs/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp.Specs/bin/Debug/netcoreapp2.2/RentApp.Specs.deps.json
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp.Specs/bin/Debug/netcoreapp2.2/RentApp.Specs.runtimeconfig.json
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp.Specs/bin/Debug/netcoreapp2.2/RentApp.Specs.runtimeconfig.dev.json
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp.Specs/bin/Debug/netcoreapp2.2/RentApp.Specs.dll
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp.Specs/bin/Debug/netcoreapp2.2/RentApp.Specs.pdb
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp.Specs/obj/Debug/netcoreapp2.2/RentApp.Specs.csprojAssemblyReference.cache
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp.Specs/obj/Debug/netcoreapp2.2/RentApp.Specs.csproj.CoreCompileInputs.cache
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp.Specs/obj/Debug/netcoreapp2.2/RentApp.Specs.AssemblyInfoInputs.cache
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp.Specs/obj/Debug/netcoreapp2.2/RentApp.Specs.AssemblyInfo.cs
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp.Specs/obj/Debug/netcoreapp2.2/RentApp.Specs.dll
+/Users/pawelsadownik/RiderProjects/RentApp/RentApp.Specs/obj/Debug/netcoreapp2.2/RentApp.Specs.pdb
